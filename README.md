@@ -11,7 +11,7 @@
         To install this application please create a fork for the main github repository. If you need help creating a fork more information can be found here https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo
 
     ## Usage
-        For usage information please see the attached video
+        For usage information please see the attached video https://drive.google.com/file/d/1YCefAXsQgRpDwY-kzaRLSgpmmGJCBBcv/view
 
     ## License - MIT License
     More information on this license can be found at https://opensource.org/licenses/MIT
